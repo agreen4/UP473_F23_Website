@@ -1,0 +1,10 @@
+---
+title: "Spring Break - No Class"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+Enjoy your spring break! Please be safe and be well.

@@ -1,0 +1,22 @@
+---
+title: "Conceptual Frameworks for Housing Analysis"
+format: html
+toc: true
+editor: source
+---
+
+## Description
+
+During this session, we will explore several key conceptual frameworks for analyzing or understanding housing and urban policy. Over the course of today's conversation, we'll explore six frameworks - spatial distribution, class, demographics, public discourse, rights, and design, in order to question *who shapes housing* and *what does housing shape*.
+
+## Learning Goals
+
+- Think conceptually about the role of housing in society
+- Apply previous knowledge of key frameworks for housing analysis to our conversation
+- Articulate key questions associated with each framework
+
+## Readings
+
+## Slides
+
+## Additional Resources

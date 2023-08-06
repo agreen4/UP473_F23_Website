@@ -1,0 +1,98 @@
+---
+title: "How Well Are we Housed?"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+Housing conditions and measures can help us understand why and how housing matters. This week, we'll examine foundational evidence for how well we are housed in the United States, and will examine some of the common discourses and factors surrounding policy debates around housing.
+
+## Learning Goals
+
+-   Develop a basic understanding of the housing delivery and regulatory system in the United States.
+-   Articulate the nature of key discourses regarding housing production and consumption.
+-   Become familiar with key indicators and measures of housing supply and consumption in the United States.
+
+## Readings
+
+Schwartz 2
+
+The Housing Crisis is Breaking People's Brains [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/11nkrojyk6n6q1qtz89srf3wp8qfdx5z)
+
+Deconstructing the "Housing Crisis" [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/samsjyad1cx6ym9m9fip9wy306zlw7rm)
+
+Harvard Joint Center for Housing Studies State of the Nation's Housing (2022) - read the executive summary and skim contents [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/uju0jrlvu6rwao12pyoo5xuyk453gqxr)
+
+## Recall
+
+Here are the items you all surfaced during our first session on the nature of the *short term* and *long term* crisis in housing:
+
+### Short-term issues
+
+1.  High rent / high housing costs
+2.  Eviction
+3.  Gentrification
+4.  Platform technology (AirBnB, etc.)
+5.  Low supply, high demand (plus "stickiness")
+6.  Wage/income issues
+7.  Inflation
+8.  Low social capital
+
+### Long-term issues
+
+1.  Homelessness
+2.  Low-density development
+3.  Accessibility
+4.  Loss of community and displacement
+
+We'll continue building upon these lists and adding additional evidence this week.
+
+## Reflect
+
+1.  How could we reframe public narrative around supply skepticism and shortage denialism to guide the development of new (affordable) housing?
+2.  Why might housing production and price issues start in coastal states and then spread elsewhere in the U.S.?
+3.  How would you develop a mental model of the housing production and delivery system? Within this model, where would you situate the 13 different crises discussed
+    1.  There is a lack of housing available to lower-income and low-wealth individuals and families.
+    2.  The median (or mean) price of housing has become too expensive.
+    3.  There is a severe rental housing crisis.
+    4.  There is a housing production deficit problem.
+    5.  There is a jobs/housing imbalance problem.
+    6.  There is a related problem of the jobs/housing fit.
+    7.  There is the problem of sprawl.
+    8.  There is an eviction crisis.
+    9.  There is a homelessness crisis.
+    10. There is a gentrification and displacement crisis.
+    11. There is a worsening racial divide in homeownership rates.
+    12. There is a serious problem of exclusionary zoning.
+    13. There remains a fair housing crisis.
+
+## Slides
+
+```{=html}
+<iframe class="slide-deck" src="2. Framework for Analysis/index.html" style="width:100%;height:50vh;margin:0;padding:0"; frameborder="2"></iframe>
+```
+
+```{=html}
+<iframe class="slide-deck" src="3. Who Gets What Housing/index.html" style="width:100%;height:50vh;margin:0;padding:0"; frameborder="2"></iframe>
+```
+## In Class
+
+Collective Slide Deck [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/2eyetthuc0bfkeh6qx79w0b1whgrjuni)
+
+## Additional Resources
+
+-   [Assignment 1 Prompt](../assignments/01_intersection.qmd)
+
+-   What to Expect in 2023's Housing Market [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/84ohyr5f3b12kc4liksusah9lqqr221k)
+
+-    [A Refugee Crisis Runs Into a Housing Crisis](https://www.nytimes.com/2021/12/15/us/afghan-refugees-housing.html)
+
+-    [Cizek, Katerina, \*A Short History of the Highrise](https://www.nytimes.com/video/opinion/100000002465058/a-short-history-of-the-highrise-part-1.html?playlistId=100000001150263)
+
+-    [How Austin Became one of the Least Affordable Cities in America](https://www.nytimes.com/2021/11/27/us/austin-texas-unaffordable-city.html)
+
+-    [In Bakersfield, Many Find a California They Can Afford](https://www.nytimes.com/2021/12/11/us/california-housing-bakersfield.html)
+
+-    [Selling Luxury Condos Where Oliver Twist Once Asked for Gruel](https://www.nytimes.com/2021/12/23/business/dickens-condos-oliver-twist-workhouse.html?campaign_id=61&emc=edit_ts_20211223&instance_id=48588&nl=the-great-read&regi_id=70210024&segment_id=77801&te=1&user_id=9f9ec940111719362bb03c71463df3a8)
