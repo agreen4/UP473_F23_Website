@@ -9,10 +9,6 @@ editor: visual
 
 This week, we'll explore the dynamics of homeownership in the United States, focusing on the evolution of access to capital for homeownership and how disparities in access to capital have important consequences for certain populations. We'll think about the evolution of the U.S. banking system and the ways in which financial innovation have changed who bears the risk in lending capital for homeownership. We'll also think about how those changes shift risk away from banks and towards capital investors and housing consumers.
 
-### Discussants
-
-Tillie and Dorian
-
 ## Learning Goals
 
 -   Develop an understanding of homeownership as simultaneously a material and political project in the United States.

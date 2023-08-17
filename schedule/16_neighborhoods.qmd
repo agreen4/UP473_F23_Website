@@ -9,10 +9,6 @@ editor: visual
 
 A primary theme of our class has been the enduring significance of neighborhoods for housing. We've looked at how these patterns of differentiation oftentimes overlay down to the block with patterns of racial and economic segregation. We've also looked at a range of policy tools used to address segregation and disinvestment in neighborhoods. So why despite all of these efforts are there such marked differences between neighborhoods and their power to support intergenerational wealth transfer and mobility?
 
-### Discussants
-
-Fatima and Juliana
-
 ## Learning Goals
 
 -   Understand arguments for why segregation remains a major social and policy issue within the United States.

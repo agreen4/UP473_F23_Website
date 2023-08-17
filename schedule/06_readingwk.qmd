@@ -1,5 +1,5 @@
 ---
-title: "Final Presentations and Course Wrap-Up"
+title: "Reading Week"
 format: html
 toc: true
 editor: visual
@@ -7,10 +7,4 @@ editor: visual
 
 ## Description
 
-This week, we'll have final class presentations where we will share final housing policy proposals created over the course of the the semester. We will also conclude our class with a final discussion about your future in housing policy.
-
-## Learning Goals
-
-- Celebrate and learn from your accomplishments over the course of the semester.
-
-## Presentations
+This week, we will not meet as a class - instead you will work in your discussion facilitation groups to shape your facilitation of the course module which you are assigned to work on.

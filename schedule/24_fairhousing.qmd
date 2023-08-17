@@ -9,10 +9,6 @@ editor: visual
 
 Enforcing fair housing policies requires substantial effort on the part of federal, state, and local agencies, but in many circumstances also places distinct burdens on housing providers and consumers. This week, we'll examine some of the frameworks for fair housing enforcement, as well as some of the barriers to the effective implementation of these strategies.
 
-### Discussants
-
-Dominique
-
 ## Learning Goals
 
 -   Understand the federal, state, and local infrastructure for monitoring and enforcing fair housing laws and rules.

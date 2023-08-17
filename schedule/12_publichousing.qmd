@@ -9,10 +9,6 @@ editor: visual
 
 This week we will explore the history and present reality of public housing in the United States. The public housing model has evolved significantly, especially over the last 20 years - we will track what physical, social, and economic phenomena led to this fundamental transformation, and will examine some of the policy debates regarding the potential future for public housing in the United States.
 
-### Discussants
-
-Zane
-
 ## Learning Goals
 
 -   Understand the basic model for how Federal public housing programs work.

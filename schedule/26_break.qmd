@@ -1,5 +1,5 @@
 ---
-title: "Spring Break - No Class"
+title: "Fall Break - No Class"
 format: html
 toc: true
 editor: visual
@@ -7,4 +7,4 @@ editor: visual
 
 ## Description
 
-Enjoy your spring break! Please be safe and be well.
+Enjoy your fall break! Please be safe and be well.
