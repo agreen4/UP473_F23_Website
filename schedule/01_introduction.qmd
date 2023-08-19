@@ -19,6 +19,8 @@ In our first course session, we'll discuss the overall layout and structure of o
 
 -   Course Syllabus &nbsp; [{{< fa arrow-up-right-from-square >}}](../syllabus/index.qmd)
 
+-   Assignments &nbsp; [{{< fa arrow-up-right-from-square >}}](../assignments/index.qmd)
+
 -   Course Introductory Survey (Before Class) &nbsp; [{{< fa arrow-up-right-from-square >}}](https://forms.illinois.edu/sec/2047607241)
 
 -   Schwartz Chapter 1 &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/3g0ys0vug4bnoaycd3lh9gdm23mao2mt)
