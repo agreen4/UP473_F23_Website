@@ -11,13 +11,19 @@ In this session, we will examine a range of frameworks for policy analysis. We h
 
 ## Learning Goals
 
-- Gain exposure to common frameworks for policy analysis.
-- Think critically about how to apply these common frameworks to specific policies.
-- Think about how to communicate the results of policy analysis to a broad audience.
+-   Gain exposure to common frameworks for policy analysis.
+-   Think critically about how to apply these common frameworks to specific policies.
+-   Think about how to communicate the results of policy analysis to a broad audience.
 
 ## Readings
 
-- 
+Knoepfel, Peter, Corinne Larue, Frederic Varone, and Michael Hill. 2007. *Public Policy Analysis*. Bristol University Press. &nbsp; [{{< fa globe >}}](https://www-jstor-org.proxy2.library.illinois.edu/stable/j.ctt9qgz7q)
+
+- Chapter 2: Public Policy &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/14jp21t3kcl03pnf20vv2jki05x2vqok) &nbsp; [{{< fa globe >}}](https://www-jstor-org.proxy2.library.illinois.edu/stable/j.ctt9qgz7q.8)
+
+- Chapter 3: Policy Actors &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/ntonk7h8x0yun1yoifxy4w9nafqhz5vg) &nbsp; [{{< fa globe >}}](https://www-jstor-org.proxy2.library.illinois.edu/stable/j.ctt9qgz7q.9)
+
+- Chapter 4: Policy Resources &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/7rc6ed239bim50imerhxcp4yuxbw602t) &nbsp; [{{< fa globe >}}](https://www-jstor-org.proxy2.library.illinois.edu/stable/j.ctt9qgz7q.10)
 
 ## Reflect
 

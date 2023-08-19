@@ -8,3 +8,9 @@ editor: visual
 ## Description
 
 This week, we will not meet as a class - instead you will work in your discussion facilitation groups to shape your facilitation of the course module which you are assigned to work on.
+
+## Prompt
+
+Please refer to the [discussion facilitation assignment](../assignments/05_facilitation.qmd) and associated [template](../assignments/Module_Plan_Template.docx) to work through your module preparations this week. 
+
+Your group should also request a meeting with Professor Greenlee this week to discuss your plans.

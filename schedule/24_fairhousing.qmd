@@ -7,7 +7,7 @@ editor: visual
 
 ## Description
 
-Enforcing fair housing policies requires substantial effort on the part of federal, state, and local agencies, but in many circumstances also places distinct burdens on housing providers and consumers. This week, we'll examine some of the frameworks for fair housing enforcement, as well as some of the barriers to the effective implementation of these strategies.
+Enforcing fair housing policies requires substantial effort on the part of federal, state, and local agencies, but in many circumstances also places distinct burdens on housing providers and consumers. In this session, we'll examine some of the frameworks for fair housing enforcement, as well as some of the barriers to the effective implementation of these strategies.
 
 ## Learning Goals
 
@@ -26,9 +26,9 @@ Last Week Tonight - Housing Discrimination
 
 </iframe>
 
-Choi, Ann, Bill Dedman, Keither Herbert, and Olivia Winslow - Long Island Divided [{{< fa arrow-up-right-from-square >}}](https://projects.newsday.com/long-island/real-estate-agents-investigation/)
+Choi, Ann, Bill Dedman, Keither Herbert, and Olivia Winslow - Long Island Divided [{{< fa globe >}}](https://projects.newsday.com/long-island/real-estate-agents-investigation/)
 
-Rothstein, Richard, The Color of Law (Chapter 3 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/b0v33tzq5y2qed0dzs6c1etqopxtslbl), Chapter 12 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/nsmxv02z218dv6xk506l4nqip5tkt8w3))
+Rothstein, Richard, The Color of Law (Chapter 12) &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/khatcjenuvejf9ens8gy4jvx1sst94jg)
 
 ## Slides
 

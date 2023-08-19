@@ -1,5 +1,5 @@
 ---
-title: "Homeownership"
+title: "An Evolutionary History of Homeownership"
 format: html
 toc: true
 editor: visual
@@ -7,7 +7,7 @@ editor: visual
 
 ## Description
 
-This week, we'll explore the dynamics of homeownership in the United States, focusing on the evolution of access to capital for homeownership and how disparities in access to capital have important consequences for certain populations. We'll think about the evolution of the U.S. banking system and the ways in which financial innovation have changed who bears the risk in lending capital for homeownership. We'll also think about how those changes shift risk away from banks and towards capital investors and housing consumers.
+Today, we'll explore the dynamics of homeownership in the United States, focusing on the evolution of access to capital for homeownership and how disparities in access to capital have important consequences for certain populations. We'll think about the evolution of the U.S. banking system and the ways in which financial innovation have changed who bears the risk in lending capital for homeownership. We'll also think about how those changes shift risk away from banks and towards capital investors and housing consumers.
 
 ## Learning Goals
 
@@ -17,24 +17,20 @@ This week, we'll explore the dynamics of homeownership in the United States, foc
 
 ## Readings
 
-Keeyanga-Yamahtta Taylor - *How Real Estate Segregated America* [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/ysvbk93s48n8bb1p8ly91ns31gr529hi)
+Schwartz 12
 
-Investor Home Purchases and the Rising Threat to Owners and Renters: Tales from 3 Cities [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/qj4ct4v5tumx08x484rxytatl31eqpon)
+10 Years Later: How the Housing Market Has Changed Since the Crash &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/wonv4vj9hx03jjxaz3lvqkulndxd2n3c)
 
-Reid, Carolina - *Homeownership and the Racial and Ethnic Wealth Gap in the United States* [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/mfxcxqttmtzu5bdjl48sovnablhoci2y)
+Rethinking Homeownership as the American Dream &nbsp;[{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/se23crvw6y9ro3btz5o7aoclq19igeat) &nbsp; [{{< fa globe >}}](https://www.urban.org/urban-wire/rethinking-homeownership-american-dream)
 
 ## Slides
 
 ## Additional Resources
 
--   10 Years Later: How the Housing Market Has Changed Since the Crash [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/kgzl1093i1uqyp53t0h8nj4wk6pd4mi8)
+- Renuart, Elizabeth, An Overview of the Predatory Mortgage Lending Process &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/bjtf9cbzwcjojvocyp7yzmyzp2xvoki4)
 
 -    [Should the Community Reinvestment Act Consider Race?](https://www.urban.org/sites/default/files/publication/105283/should-the-community-reinvestment-act-consider-race_1.pdf)
 
 -    [Black Homeowners Face Discrimination in Appraisals](https://www.nytimes.com/2020/08/25/realestate/blacks-minorities-appraisals-discrimination.html)
 
 -    [Financial Crisis Inquiry Commission Report](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf)
-
--    [Renuart, Elizabeth, An Overview of the Predatory Mortgage Lending Process](https://uofi.box.com/s/p04el32z1mns3j6xm2jvao7q6a5af4u6)
-
--    [How the Real Estate Boom Left Black Neighborhoods Behind - What Would it Take to Catch Up?  ](https://www.nytimes.com/2021/12/12/podcasts/the-daily/the-sunday-read-how-the-real-estate-boom-left-black-neighborhoods-behind.html)

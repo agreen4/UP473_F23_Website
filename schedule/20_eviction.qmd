@@ -9,7 +9,7 @@ editor: visual
 
 Our nation is facing an unprecedented eviction crisis that has only been made worse by the economic instability caused by the pandemic. The pandemic presented opportunities to directly target state and federal relief towards those households facing eviction, and has also opened up a broader conversation about the balance between landlord and tenant rights.
 
-This week, we will explore some of the root causes for eviction and will add complexity to our understanding by examining some of the current policy debates for how to address this crisis.
+In this session, we will explore some of the root causes for eviction and will add complexity to our understanding by examining some of the current policy debates for how to address this crisis.
 
 ## Learning Goals
 
@@ -19,7 +19,11 @@ This week, we will explore some of the root causes for eviction and will add com
 
 ## Readings
 
-Matthew Desmond *Evicted*: Prologue [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/x4kjatw5l97aikcxghnq519ptuonh6nw), Chapter 2 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/szfssrl2he5m37e76wvb78pocmqgo7hm), Chapter 9 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/xz6g4ly1nd0iv7qn28mw3s0n87cxc2sq), Chapter 10 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/4mcai41n2wjpthhzcbudck2e76pvf8a6), Chapter 18 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/c84up1g7qlri5jds3hghueeb31hm6mx4), Epilogue [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/0s6f50cmyw9zsqzrpx7ceuo432n36zne)
+- The Stigma of a Scarlet E &nbsp; [{{< fa arrow-up-right-from-square >}}]() &nbsp; [{{< fa globe >}}](https://www.wnycstudios.org/podcasts/otm/scarlet-e-unmasking-americas-eviction-crisis)
+
+- The Scarlet E: Unmasking America's Eviction Crisis (listen to the episode below) &nbsp; [{{< fa globe >}}](https://www.wnycstudios.org/podcasts/otm/articles/scarlet-e-unmasking-americas-eviction-crisis)
+
+<iframe frameborder="0" src="https://www.wnyc.org/widgets/ondemand_player/otm/#file=/audio/json/940992/&amp;share=1" width="100%" height="54"></iframe>
 
 Last Week Tonight - Coronavirus: Evictions
 
@@ -39,4 +43,4 @@ Last Week Tonight - Coronavirus: Evictions
 
 -    [The Effect of Eviction Moratoria on the Transmission of SARS-CoV-2](https://www.nature.com/articles/s41467-021-22521-5)
 
--    [The Scarlet E: Unmasking America's Eviction Crisis](https://www.wnycstudios.org/podcasts/otm/scarlet-e-unmasking-americas-eviction-crisis)
+- Matthew Desmond *Evicted*: Prologue [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/x4kjatw5l97aikcxghnq519ptuonh6nw), Chapter 2 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/szfssrl2he5m37e76wvb78pocmqgo7hm), Chapter 9 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/xz6g4ly1nd0iv7qn28mw3s0n87cxc2sq), Chapter 10 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/4mcai41n2wjpthhzcbudck2e76pvf8a6), Chapter 18 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/c84up1g7qlri5jds3hghueeb31hm6mx4), Epilogue [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/0s6f50cmyw9zsqzrpx7ceuo432n36zne)

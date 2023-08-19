@@ -17,20 +17,20 @@ Housing conditions and measures can help us understand why and how housing matte
 
 ## Readings
 
-- [Assignment 1 Prompt](../assignments/01_intersection.qmd)
+-   [Assignment 1 Prompt](../assignments/01_intersection.qmd)
 
-- Harvard Joint Center for Housing Studies State of the Nation's Housing (2023) &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/eojp0fu6ukfa04v6pgca53jxm4l43x2w) &nbsp; [{{< fa globe >}}](https://www.jchs.harvard.edu/state-nations-housing-2023)
+-   Harvard Joint Center for Housing Studies State of the Nation's Housing (2023)   [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/eojp0fu6ukfa04v6pgca53jxm4l43x2w)   [{{< fa globe >}}](https://www.jchs.harvard.edu/state-nations-housing-2023)
 
 Read the Executive Summary plus the additional chapter you are assigned below:
 
 ### JCHS Reading Assignments
 
-1. Executive Summary - Everyone
-2. Housing Markets
-3. Demographic Drivers
-4. Homeownership
-5. Rental Housing
-6. Housing Challenges
+1.  Executive Summary - Everyone
+2.  Housing Markets
+3.  Demographic Drivers
+4.  Homeownership
+5.  Rental Housing
+6.  Housing Challenges
 
 ## Slides
 

@@ -1,20 +1,19 @@
 ---
-title: "Housing Special Populations"
+title: "Houselessness"
 format: html
 toc: true
-editor: visual
+editor: source
 ---
 
 ## Description
 
-Our nation's housing delivery system works well for some, but there are other specialized populations that require additional outreach and support. This week, we will examine the unique housing needs of both homeless individuals and individuals with disabilities, and will explore the range of policy tools and strategies to provide inclusive, long-term housing solutions.
+In this session, we will examine the unique housing needs and trends, and policy solutions associated with houselessness. 
 
 ## Learning Goals
 
 -   Understand common standards for measuring homelessnes.
 -   Understand how local continuums of care provide services.
--   Recognize common barriers to housing for people with disabilities.
--   Envision how housing policy might respond to the housing needs of an ageing population.
+-   Envision how housing policy might respond to the housing needs of individuals without regular access to a house.
 
 ## Readings
 
@@ -27,12 +26,6 @@ State of Homelessness 2022 (skim) [{{< fa arrow-up-right-from-square >}}](https:
 Last Week Tonight - Homelessness
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/liptMbjF3EE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-
-</iframe>
-
-PBS News Hour - How More Americans are "Aging in Place"
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5VqgSkN14JE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 
 </iframe>
 

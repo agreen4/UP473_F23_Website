@@ -1,0 +1,34 @@
+---
+title: "Disparities in Access to Ownership"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+Today, we'll continue our conversation on the dynamics of homeownership in the United States, focusing on disparities in access to homeownership opportunities, and the implications of these disparities for the building and transfer of wealth.
+
+## Learning Goals
+
+-   Articulate some of the risks and rewards associated with owner-occupied housing.
+-   Understand how access to capital and access to ownership opportunities has been used as a means of underscoring spatial segregation and inequality.
+
+## Readings
+
+Keeyanga-Yamahtta Taylor - *How Real Estate Segregated America* [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/ysvbk93s48n8bb1p8ly91ns31gr529hi)
+
+Homeownership, Racial Segregation and Policy Solutions to Racial Wealth Equity &nbsp; [{{< fa arrow-up-right-from-square >}}]() &nbsp; [{{< fa globe >}}](https://www.brookings.edu/articles/homeownership-racial-segregation-and-policies-for-racial-wealth-equity/)
+
+Investor Home Purchases and the Rising Threat to Owners and Renters: Tales from 3 Cities [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/qj4ct4v5tumx08x484rxytatl31eqpon)
+
+## Slides
+
+## Additional Resources
+
+- [How the Real Estate Boom Left Black Neighborhoods Behind - What Would it Take to Catch Up?  ](https://www.nytimes.com/2021/12/12/podcasts/the-daily/the-sunday-read-how-the-real-estate-boom-left-black-neighborhoods-behind.html)
+
+-    [Should the Community Reinvestment Act Consider Race?](https://www.urban.org/sites/default/files/publication/105283/should-the-community-reinvestment-act-consider-race_1.pdf)
+
+-    [Black Homeowners Face Discrimination in Appraisals](https://www.nytimes.com/2020/08/25/realestate/blacks-minorities-appraisals-discrimination.html)
+
