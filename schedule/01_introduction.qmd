@@ -17,23 +17,23 @@ In our first course session, we'll discuss the overall layout and structure of o
 
 ## Readings
 
--   [Course Syllabus](../syllabus/index.qmd)
+-   Course Syllabus &nbsp; [{{< fa arrow-up-right-from-square >}}](../syllabus/index.qmd)
 
--   Course Introductory Survey [{{< fa arrow-up-right-from-square >}}](https://forms.illinois.edu/sec/2047607241)
+-   Course Introductory Survey (Before Class) &nbsp; [{{< fa arrow-up-right-from-square >}}](https://forms.illinois.edu/sec/2047607241)
 
--   Schwartz Chapter 1 [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/osyqyyvsuajbi8y2eb10e70ye4jgpeqw)
+-   Schwartz Chapter 1 &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/3g0ys0vug4bnoaycd3lh9gdm23mao2mt)
 
 ## In Class
 
-In class, we will spend some time reading these articles. You will split into small groups to begin exploring their arguments and will work together to develop models of the housing system that relate to the arguments made in the articles. We'll take 10 minutes in class for you to re-familiarize yourself with the article you're going to present, but you may want to read these before class.
+In class, we will spend some time reading these articles. You will split into small groups to begin exploring their arguments and will work together to develop models of the housing system that relate to the arguments made in the articles. We'll take 10 minutes in class for you to re-familiarize yourself with the article you're going to present, but please read these before our first class session.
 
-[Is it Possible to Buy a House in your 20s? Yes, but Only With Some Help](https://www.nytimes.com/2023/08/05/business/buying-house-20s-mortgage.html?searchResultPosition=8)
+Is it Possible to Buy a House in your 20s? Yes, but Only With Some Help &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/19pi8battggfnk6w690a362rm327fnfs) &nbsp; [{{< fa globe >}}](https://www.nytimes.com/2023/08/05/business/buying-house-20s-mortgage.html?searchResultPosition=8)
 
-[How the Pandemic Spurred a Housing Crisis in Cities Across The Nation](https://www.politico.com/interactives/2023/50-mayors-us-cities/housing/)
+How the Pandemic Spurred a Housing Crisis in Cities Across The Nation  &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/74ckwia5dlgnial886q0ri7nn0zmjg4d) &nbsp; [{{< fa globe >}}](https://www.politico.com/interactives/2023/50-mayors-us-cities/housing/)
 
-[Who Will Stand Up for Renters? Their Elected Representatives, Who Also Rent](https://www.nytimes.com/2023/07/21/business/economy/renters-caucus-elected-representatives-who-rent.html?searchResultPosition=52)
+Who Will Stand Up for Renters? Their Elected Representatives, Who Also Rent &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/xqkwvrxve0s9fxyowzo8qfvfr0ifnzz4) &nbsp; [{{< fa globe >}}](https://www.nytimes.com/2023/07/21/business/economy/renters-caucus-elected-representatives-who-rent.html?searchResultPosition=52)
 
-[How the Housing Crisis is Turning Modern Dating on its Head](https://www.theguardian.com/lifeandstyle/2023/jul/22/is-housing-crisis-killing-romance-modern-dating-jane-austen)
+How the Housing Crisis is Turning Modern Dating on its Head &nbsp; [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/yv0jjr0vnptzr5ga49cj7jfviq7oycqj) &nbsp; [{{< fa globe >}}](https://www.theguardian.com/lifeandstyle/2023/jul/22/is-housing-crisis-killing-romance-modern-dating-jane-austen)
 
 ## Slides
 

@@ -1,0 +1,26 @@
+---
+title: "Policy Analysis"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+In this session, we will examine a range of frameworks for policy analysis. We have now developed a broad understanding of the structure, function, and broader policy and economic questions associated with housing and urban policy. As we transition into looking at more specific policy approaches, this session is designed to help us think through frameworks for analyzing the rationale for policies, their design politics, their implementation, and associated outcomes.
+
+## Learning Goals
+
+- Gain exposure to common frameworks for policy analysis.
+- Think critically about how to apply these common frameworks to specific policies.
+- Think about how to communicate the results of policy analysis to a broad audience.
+
+## Readings
+
+- 
+
+## Reflect
+
+## Slides
+
+## Additional Resources
