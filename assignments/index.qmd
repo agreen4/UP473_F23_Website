@@ -11,10 +11,10 @@ Assignments in Housing and Urban Policy are designed to offer the opportunity to
 |---------------|---------------|---------------|---------------|---------------|
 | [Exploring an Intersection](01_intersection.qmd) | 25%           | 10%     | 10%      | 9/11/2023  |
 | [Local Housing Market Analysis](02_analysis.qmd) | 25%           | 10%     |          | 10/23/2023 |
-| [Housing Policy Analysis](04_policy.qmd)         | 30%           | 10%     |          | 11/27/2023 |
-| [Housing Platform](05_proposal.qmd)              |               | 50%     |          | 12/11/2023 |
-| [Term Paper](07_term.qmd)                        |               |         | 70%      | 12/11/2023 |
-| [Discussion Facilitation](06_facilitation.qmd)   | 10%           | 10%     | 10%      | Varies     |
-| Seminar Participation and Engagement             | 10%           | 10%     | 10%      | Throughout |
+| [Housing Policy Analysis](03_policy.qmd)         | 30%           | 10%     |          | 11/27/2023 |
+| [Housing Platform](04_proposal.qmd)              |               | 50%     |          | 12/11/2023 |
+| [Term Paper](06_term.qmd)                        |               |         | 70%      | 12/11/2023 |
+| [Discussion Facilitation](05_facilitation.qmd)   | 10%           | 10%     | 10%      | Varies     |
+| [Seminar Participation and Engagement](07_participation.qmd)             | 10%           | 10%     | 10%      | Throughout |
 
 For more information on assignment grading and expectations, please refer to the individual assignments and to our [course syllabus](../syllabus/#grading).
