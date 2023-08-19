@@ -1,5 +1,5 @@
 ---
-title: "Discussion Facilitation"
+title: "Module Facilitation"
 format: html
 toc: false
 editor: visual
@@ -7,14 +7,59 @@ editor: visual
 
 ## Assignment Goals
 
-Our class depends upon all of us taking leadership for our course content, learning, and engagement. One way we will sustain our learning together is to take responsibility for discussion facilitation over the course of the semester. During the first two weeks of class, you will sign up to facilitate discussion for one week of the class (Weeks 3-8, 10-14).
+Our class depends upon all of us taking leadership for our course content, learning, and engagement. One way we will sustain our learning together is to take responsibility for discussion facilitation over the course of the semester. Working in groups, you will be responsible for facilitating one learning module for the class. 
 
+## Tips for Successful Facilitation
 
-## Tips for Successful Facilitation 
+1.  **Assume a Prepared Audience:** A baseline assumption is that everyone has read the assigned materials for the module - this is a basic expectation of our class. As part of your facilitation, you may want to ensure that everyone understands key concepts and definitions, however strong facilitation *does not include summarizing assigned content*. This is a poor use of our time together. 
 
-1.  **Assume a Prepared Audience:** A baseline assumption is that everyone has read the assigned materials for the week - while you may wish to review key concepts from those readings, strong facilitation *will not include summarizing assigned content*, since everyone should be prepared to discuss them. Strong facilitation may include providing discussion questions, examples, and scenarios that extend concepts from the readings.
+Strong facilitation may include providing discussion questions, examples, and scenarios that extend concepts from the readings.
 
 2.  **Guest Speakers:** There may be some weeks where the class would benefit from inviting a guest speaker as part of your facilitation. As we develop your facilitation plans, I can help you to invite and make arrangements for guest speakers, if this is desired.
 
 3.  **Changing Content:** Your facilitation may involve proposing changes or supplements to reading selections. Please outline these proposed changes as part of your facilitation plans.
 
+## Developing Your Facilitation Plan
+
+We will have a *Reading Week* early in the semester in which you'll work in your group to articulate facilitation plans for your learning module. As a group, you are expected to use this week to *read ahead* through the materials in your module, and to articulate a plan for how you want to lead course discussion over the sessions in your module. You can...
+- Propose inviting guest speakers you identify to talk about particular related things.
+- Propose changes to our readings, resources, and other course content.
+- Propose areas of emphasis you'd like Professor Greenlee to focus some of his facilitation on.
+- Propose activities, exercises, or other means of engaging the rest of the class in working through the big questions in your module.
+
+You will turn in a facilitation plan as a group at the conclusion of the reading week, and this plan will form the basis for your leadership and our engagement with the module during that portion of the class.
+
+[Facilitation Plan Template](Module_Plan_Template.docx)
+
+### Collaborative Planning
+
+During reading week we will not have formal class sessions. Professor Greenlee will be available to meet with each of your groups to discuss your facilitation plans and potential modifications to existing course plans.
+
+**Module Goals:** Articulate the overall goal your group has set for our learning together during the module which you are facilitating.
+
+- How do these goals relate to larger questions or themes your group is interested in?
+- What are each of the individuals in your group interested in, and how do they relate back to the big picture question you are addressing?
+- What topics does your group see as major areas for policy debate that fall within the big picture question?
+- What would you like the class to leave with at the end of their engagement with your module?
+
+**Module Strategy:** How do you plan to operationalize your goals through the facilitation of each course session?
+
+**Detailed Session Descriptions:** What will we cover in each of the sessions you are facilitating? What proposed modifications, additions, or changes would you propose making to existing sessions? How are you planning to fill in any open sessions?
+
+**Delegation of Responsibility:** Who is going to take responsibility for facilitation activities and leadership during each session that is part of your module.
+
+**Remaining Questions:** Please share any remaining questions or dependencies that we will need to work through before your module facilitation begins. We will try to address these things in advance so they're all resolved before it's time for your facilitation.
+
+### "Big Picture" Questions
+
+Here are the five big picture questions that we will organize around:
+
+- How are individual and collective financial benefits and burdens allocated through housing?
+
+- Where are poor people to live? What housing are poor people to occupy?
+
+- How do neighborhoods matter for economic and social mobility?
+
+- What are the causes and consequences of housing instability?
+
+- What would a global right to housing look like?
