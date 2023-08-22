@@ -10,7 +10,7 @@ Our course schedule is subject to change over the course of semester - please ch
 ## How will we learn together? How can we conceptualize the impacts of housing and urban policy?
 
 |           |                                                                 |
-|-----------|-----------------------------------------------------------------|
+|---------------|---------------------------------------------------------|
 | **Date**  | **Topic**                                                       |
 | 8/21/2023 | [Course Introduction](01_introduction.qmd)                      |
 | 8/23/2023 | [Conceptual Frameworks for Housing Analysis](02_conceptual.qmd) |
@@ -33,7 +33,7 @@ Our course schedule is subject to change over the course of semester - please ch
 ## How are individual and collective financial benefits and burdens allocated through housing?
 
 | Date      | Topic                                                            |
-|-----------|------------------------------------------------------------------|
+|---------------|---------------------------------------------------------|
 | 9/18/2023 | [An Evolutionary History of Homeownership](08_homeownership.qmd) |
 | 9/20/2023 | [Disparities in Access to Ownership](09_homeownership2)          |
 | 9/25/2023 | TBD                                                              |
@@ -42,7 +42,7 @@ Our course schedule is subject to change over the course of semester - please ch
 ## Where are poor people to live? What housing are poor people to occupy?
 
 |            |                                                                                  |
-|------------|----------------------------------------------------------------------------------|
+|--------------|---------------------------------------------------------|
 | **Date**   | **Topic**                                                                        |
 | 10/2/2023  | [Public Housing](12_publichousing.qmd)                                           |
 | 10/4/2023  | [Federally Assisted Housing](13_fedassisted.qmd)                                 |
@@ -52,7 +52,7 @@ Our course schedule is subject to change over the course of semester - please ch
 ## How do neighborhoods matter for economic and social mobility?
 
 | Date       | Topic                                                              |
-|------------|--------------------------------------------------------------------|
+|---------------|---------------------------------------------------------|
 | 10/16/2023 | [The Enduring Significance of Neighborhoods](16_neighborhoods.qmd) |
 | 10/18/2023 | No Class - ACSP Conference                                         |
 | 10/23/2023 | [Neighborhood Change](18_neighborhoodchg.qmd)                      |
@@ -62,15 +62,15 @@ Our course schedule is subject to change over the course of semester - please ch
 
 | Date       | Topic                                                   |
 |------------|---------------------------------------------------------|
-| 10/30/2023 | [Eviction](20_eviction.qmd)                             |
-| 11/1/2023  | [Regulating Housing Environments](21_hsgenv.qmd)        |
-| 11/6/2023  | [Political Ecology of Housing](22_politicalecology.qmd) |
-| 11/8/2023  | TBD                                                     |
+| 10/30/2023 | [Political Ecology of Housing](20_politicalecology.qmd)                             |
+| 11/1/2023  | [Vinisha Basnet](21_Vinisha.qmd)        |
+| 11/6/2023  | [Regulating Housing Environments](22_hsgenv.qmd)   |
+| 11/8/2023  | [Eviction](23_eviction.qmd)                                                    |
 
 ## What would a global right to housing look like?
 
 | Date       | Topic                                                                |
-|------------|----------------------------------------------------------------------|
+|---------------|---------------------------------------------------------|
 | 11/13/2023 | [Housing Market Discrimination and Fair Housing](24_fairhousing.qmd) |
 | 11/15/2023 | [Houselessness](25_houselessness.qmd)                                |
 | 11/20/2023 | [Fall Break - No Class](26_break.qmd)                                |
