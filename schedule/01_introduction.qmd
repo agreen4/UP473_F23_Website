@@ -41,6 +41,9 @@ How the Housing Crisis is Turning Modern Dating on its Head &nbsp; [{{< fa arrow
 
 ## Slides
 
+```{=html}
+<iframe class="slide-deck" src="S1_Course_Introduction/index.html" style="width:100%;height:50vh;margin:0;padding:0"; frameborder="2"></iframe>
+```
 ## Additional Resources
 
 Can Affluence and Affordable Housing Coexist in Colorado's Rockies? &nbsp; [{{< fa globe >}}](https://www.nytimes.com/2023/08/17/business/economy/colorado-rocky-mountain-housing.html)
