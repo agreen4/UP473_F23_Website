@@ -28,42 +28,48 @@ Read the Executive Summary plus the additional chapter you are assigned below:
 1.  Executive Summary - Everyone
 
 2.  Housing Markets
-  - Hyndavi A.
-  - Ar'Mand E.
-  - Janet H.
-  - Jenifer M.
-  - Aabha S.
-  - Michael V.
-  
+
+-   Hyndavi A.
+-   Ar'Mand E.
+-   Janet H.
+-   Jenifer M.
+-   Aabha S.
+-   Michael V.
+
 3.  Demographic Drivers
-  - Leela B.
-  - Cole F. 
-  - Shinmyeon H.
-  - Anjana N.
-  - Ellie S.
-  - Yingqi Y.
-  
+
+-   Leela B.
+-   Cole F.
+-   Shinmyeon H.
+-   Anjana N.
+-   Ellie S.
+-   Yingqi Y.
+
 4.  Homeownership
-  - Emma B.
-  - Dasom H.
-  - Nadia K.
-  - Rose R.K.
-  - Priya S.
-  - Zhenpeng Z.
-  
+
+-   Emma B.
+-   Dasom H.
+-   Nadia K.
+-   Rose R.K.
+-   Priya S.
+-   Zhenpeng Z.
+
 5.  Rental Housing
-  - Karley C.
-  - Prithvi H.
-  - Trinity L.
-  - Maria R.S.
-  - Shiva S.
-  
+
+-   Karley C.
+-   Prithvi H.
+-   Trinity L.
+-   Maria R.S.
+-   Shiva S.
+
 6.  Housing Challenges
-  - Julia P.
-  - Hexiang H.
-  - Anukriti M.
-  - Celio R.M.
-  - Andrew S.
+
+-   Julia P.
+-   Hexiang H.
+-   Anukriti M.
+-   Celio R.M.
+-   Andrew S.
+-   Jerry R.
 
 ## Slides
 
