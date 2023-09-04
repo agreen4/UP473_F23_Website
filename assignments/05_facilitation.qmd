@@ -7,11 +7,67 @@ editor: visual
 
 ## Assignment Goals
 
-Our class depends upon all of us taking leadership for our course content, learning, and engagement. One way we will sustain our learning together is to take responsibility for discussion facilitation over the course of the semester. Working in groups, you will be responsible for facilitating one learning module for the class. 
+Our class depends upon all of us taking leadership for our course content, learning, and engagement. One way we will sustain our learning together is to take responsibility for discussion facilitation over the course of the semester. Working in groups, you will be responsible for facilitating one learning module for the class.
+
+## Assigned Groups
+
+### How are individual and collective financial benefits and burdens allocated through housing?
+
+Karley C.</br>
+Cole F.</br>
+Hexiang H.</br>
+Anjana N.</br>
+Aabha S.</br>
+Yingqi Y.</br>
+
+[Sessions](../schedule/#how-are-individual-and-collective-financial-benefits-and-burdens-allocated-through-housing)
+
+### Where are poor people to live? What housing are poor people to occupy?
+
+Emma B.</br>
+Ar'Mand E.</br>
+Shinmyeong H.</br>
+Rose R.K.</br>
+Elle S.</br>
+Michael V.</br>
+
+[Sessions](../schedule/#where-are-poor-people-to-live-what-housing-are-poor-people-to-occupy)
+
+### How do neighborhoods matter for economic and social mobility?
+
+Leela, B.</br>
+Dasom H.</br>
+Nadia K.</br>
+Anukriti M.</br>
+Jerry R.</br>
+Zhenpeng Z.</br>
+
+[Sessions](../schedule/#how-do-neighborhoods-matter-for-economic-and-social-mobility)
+
+### What are the causes and consequences of housing instability?
+
+Hyndavi A.</br>
+Prithvi H.</br>
+Janet H.</br>
+Jenifer M.</br>
+Priya S.</br>
+Andrew S.</br>
+
+[Sessions](../schedule/#what-are-the-causes-and-consequences-of-housing-instability)
+
+### What would a global right to housing look like?
+
+Sepideh A.</br>
+Julia P.</br>
+Trinity L.</br>
+Maria R.S.</br>
+Shiva S.</br>
+
+[Sessions](../schedule/#what-would-a-global-right-to-housing-look-like)
 
 ## Tips for Successful Facilitation
 
-1.  **Assume a Prepared Audience:** A baseline assumption is that everyone has read the assigned materials for the module - this is a basic expectation of our class. As part of your facilitation, you may want to ensure that everyone understands key concepts and definitions, however strong facilitation *does not include summarizing assigned content*. This is a poor use of our time together. 
+1.  **Assume a Prepared Audience:** A baseline assumption is that everyone has read the assigned materials for the module - this is a basic expectation of our class. As part of your facilitation, you may want to ensure that everyone understands key concepts and definitions, however strong facilitation *does not include summarizing assigned content*. This is a poor use of our time together.
 
 Strong facilitation may include providing discussion questions, examples, and scenarios that extend concepts from the readings.
 
@@ -21,11 +77,7 @@ Strong facilitation may include providing discussion questions, examples, and sc
 
 ## Developing Your Facilitation Plan
 
-We will have a *Reading Week* early in the semester in which you'll work in your group to articulate facilitation plans for your learning module. As a group, you are expected to use this week to *read ahead* through the materials in your module, and to articulate a plan for how you want to lead course discussion over the sessions in your module. You can...
-- Propose inviting guest speakers you identify to talk about particular related things.
-- Propose changes to our readings, resources, and other course content.
-- Propose areas of emphasis you'd like Professor Greenlee to focus some of his facilitation on.
-- Propose activities, exercises, or other means of engaging the rest of the class in working through the big questions in your module.
+We will have a *Reading Week* early in the semester in which you'll work in your group to articulate facilitation plans for your learning module. As a group, you are expected to use this week to *read ahead* through the materials in your module, and to articulate a plan for how you want to lead course discussion over the sessions in your module. You can... - Propose inviting guest speakers you identify to talk about particular related things. - Propose changes to our readings, resources, and other course content. - Propose areas of emphasis you'd like Professor Greenlee to focus some of his facilitation on. - Propose activities, exercises, or other means of engaging the rest of the class in working through the big questions in your module.
 
 You will turn in a facilitation plan as a group at the conclusion of the reading week, and this plan will form the basis for your leadership and our engagement with the module during that portion of the class.
 
@@ -37,10 +89,10 @@ During reading week we will not have formal class sessions. Professor Greenlee w
 
 **Module Goals:** Articulate the overall goal your group has set for our learning together during the module which you are facilitating.
 
-- How do these goals relate to larger questions or themes your group is interested in?
-- What are each of the individuals in your group interested in, and how do they relate back to the big picture question you are addressing?
-- What topics does your group see as major areas for policy debate that fall within the big picture question?
-- What would you like the class to leave with at the end of their engagement with your module?
+-   How do these goals relate to larger questions or themes your group is interested in?
+-   What are each of the individuals in your group interested in, and how do they relate back to the big picture question you are addressing?
+-   What topics does your group see as major areas for policy debate that fall within the big picture question?
+-   What would you like the class to leave with at the end of their engagement with your module?
 
 **Module Strategy:** How do you plan to operationalize your goals through the facilitation of each course session?
 
@@ -54,12 +106,12 @@ During reading week we will not have formal class sessions. Professor Greenlee w
 
 Here are the five big picture questions that we will organize around:
 
-- How are individual and collective financial benefits and burdens allocated through housing?
+-   How are individual and collective financial benefits and burdens allocated through housing?
 
-- Where are poor people to live? What housing are poor people to occupy?
+-   Where are poor people to live? What housing are poor people to occupy?
 
-- How do neighborhoods matter for economic and social mobility?
+-   How do neighborhoods matter for economic and social mobility?
 
-- What are the causes and consequences of housing instability?
+-   What are the causes and consequences of housing instability?
 
-- What would a global right to housing look like?
+-   What would a global right to housing look like?
