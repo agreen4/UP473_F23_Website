@@ -1,0 +1,26 @@
+---
+title: "Dr. Natalie Prochaska"
+format: html
+toc: true
+editor: visual
+---
+
+## Description
+
+Today, we'll be joined by Dr. Natalie Prochaska of Nevada HAND.
+
+## Learning Goals
+
+-   Develop an understanding of homeownership as simultaneously a material and political project in the United States.
+-   Understand the evolution of key financial mechanisms that underscore homeownership.
+-   Articulate some of the risks and rewards associated with owner-occupied housing.
+
+## Readings
+
+Rethinking Homeownership as the American Dream  [{{< fa arrow-up-right-from-square >}}](https://uofi.box.com/s/se23crvw6y9ro3btz5o7aoclq19igeat)   [{{< fa globe >}}](https://www.urban.org/urban-wire/rethinking-homeownership-american-dream)
+
+## Slides
+
+## Additional Resources
+
+-   
