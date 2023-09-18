@@ -7,17 +7,15 @@ editor: visual
 
 ## Description
 
-Today, we'll be joined by [Alia Fierro](https://www.linkedin.com/in/aliafierro/) who is  Director of Housing, Community Development, and Insurance Policy at the [House Committee on Financial Services](https://financialservices.house.gov). Alia received a Bachelor's degree in Latin American and Caribbean Studies (minor in Urban Planning) at University of Illinois at Urbana-Champaign, and a Master of Regional Planning degree from Cornell University. Before joining the House Financial Services Committee, Alia worked in housing advocacy with the National Fair Housing Alliance.
+Today, we'll be joined by [Alia Fierro](https://www.linkedin.com/in/aliafierro/) who is Director of Housing, Community Development, and Insurance Policy at the [House Committee on Financial Services](https://financialservices.house.gov). Alia received a Bachelor's degree in Latin American and Caribbean Studies (minor in Urban Planning) at University of Illinois at Urbana-Champaign, and a Master of Regional Planning degree from Cornell University. Before joining the House Financial Services Committee, Alia worked in housing advocacy with the National Fair Housing Alliance.
 
 [Role of the House Financial Services Committee:](https://financialservices.house.gov/about/)
 
 > The House Financial Services Committee has jurisdiction over issues pertaining to the economy, the banking system, housing, insurance, and securities and exchanges. Additionally, the Committee also has jurisdiction over monetary policy, international finance, international monetary organizations, and efforts to combat terrorist financing.
 
-> The Committee oversees the Nation’s economy through its oversight of the Federal Reserve Board and individual reserve banks, the Treasury, the production and distribution of currency, and the Nation’s capital markets.
+> The Committee oversees the Nation's economy through its oversight of the Federal Reserve Board and individual reserve banks, the Treasury, the production and distribution of currency, and the Nation's capital markets.
 
 > Agencies under oversight by the Committee include: the Federal Reserve, Treasury, the Federal Deposit Insurance Corporation, the Securities and Exchange Commission, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Department of Housing and Urban Development, the Federal Housing Finance Agency, and the Export-Import Bank.
-
-
 
 ## Learning Goals
 
@@ -31,4 +29,12 @@ Schwartz 12
 
 ## Additional Resources
 
+- [HUDUSER: Shared Equity Ownership](https://www.huduser.gov/portal/periodicals/em/fall12/highlight3.html)
+- [Federal Fair Housing Act](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview#_The_Fair_Housing)
+- [Census Household PULSE](https://www.census.gov/data/experimental-data-products/household-pulse-survey.html) - Measuring Household Experiences During the Coronavirus Pandemic
+- [Home Mortgage Disclosure Act (HMDA)](https://www.consumerfinance.gov/data-research/hmda/)
+- [Dodd-Frank Act](https://www.congress.gov/bill/111th-congress/house-bill/4173/text)
+- [NAREB - National Association of Real Estate Brokers](https://www.nareb.com)
+- [NAHREP - National Association of Hispanic Real Estate Professionals](https://nahrep.org)
+- [HUD Certified Housing Counselors](https://www.hud.gov/program_offices/housing/sfh/hcc/hcc_home)
 -   [House Committee on Financial Services Bills and Reports](https://www.govinfo.gov/committee/house-financial?path=/browsecommittee/chamber/house/committee/financial/collection/BILLS)
