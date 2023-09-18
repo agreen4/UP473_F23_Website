@@ -34,8 +34,8 @@ Our course schedule is subject to change over the course of semester - please ch
 
 | Date      | Topic                                                            |
 |------------------|------------------------------------------------------|
-| 9/18/2023 | [Alia Fierro](08_fierro) |
-| 9/20/2023 | [Dr. Natalie Prochaska](09_prochaska)          |
+| 9/18/2023 | [Alia Fierro - House Financial Services Committeee](08_fierro) |
+| 9/20/2023 | [Dr. Natalie Prochaska - Nevada HAND](09_prochaska)          |
 | 9/25/2023 | [An Evolutionary History of Homeownership](10_homeownership.qmd)                                                              |
 | 9/27/2023 | [Disparities in Access to Ownership](11_homeownership2)                                                             |
 
@@ -47,13 +47,13 @@ Our course schedule is subject to change over the course of semester - please ch
 | 10/2/2023  | [Public Housing](12_publichousing.qmd)                                           |
 | 10/4/2023  | [Federally Assisted Housing](13_fedassisted.qmd)                                 |
 | 10/9/2023  | [Housing Production Strategies](14_production.qmd)                               |
-| 10/11/2023 | [Danielle Chynoweth](15_chynoweth.qmd) - Cunningham Township Supervisor's Office |
+| 10/11/2023 | [Danielle Chynoweth - Cunningham Township Supervisor's Office](15_chynoweth.qmd) - Cunningham Township Supervisor's Office |
 
 ## How do neighborhoods matter for economic and social mobility?
 
 | Date       | Topic                                                              |
 |------------------|------------------------------------------------------|
-| 10/16/2023 | [Mike Davis and Emma Walters](16_daviswalters.qmd)                 |
+| 10/16/2023 | [Mike Davis and Emma Walters - Central Illinois Land Bank Authority](16_daviswalters.qmd)                 |
 | 10/18/2023 | No Class - ACSP Conference                                         |
 | 10/23/2023 | [The Enduring Significance of Neighborhoods](18_neighborhoods.qmd) |
 | 10/25/2023 | [Neighborhood Change](19_neighborhoodchg.qmd)                      |
@@ -63,7 +63,7 @@ Our course schedule is subject to change over the course of semester - please ch
 | Date       | Topic                                                   |
 |------------|---------------------------------------------------------|
 | 10/30/2023 | [Political Ecology of Housing](20_politicalecology.qmd) |
-| 11/1/2023  | [Vinisha Basnet](21_Vinisha.qmd)                        |
+| 11/1/2023  | [Vinisha Basnet - Doctoral Candidate](21_Vinisha.qmd)                        |
 | 11/6/2023  | [Regulating Housing Environments](22_hsgenv.qmd)        |
 | 11/8/2023  | [Eviction](23_eviction.qmd)                             |
 
