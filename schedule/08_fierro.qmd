@@ -29,12 +29,50 @@ Schwartz 12
 
 ## Additional Resources
 
-- [HUDUSER: Shared Equity Ownership](https://www.huduser.gov/portal/periodicals/em/fall12/highlight3.html)
-- [Federal Fair Housing Act](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview#_The_Fair_Housing)
-- [Census Household PULSE](https://www.census.gov/data/experimental-data-products/household-pulse-survey.html) - Measuring Household Experiences During the Coronavirus Pandemic
-- [Home Mortgage Disclosure Act (HMDA)](https://www.consumerfinance.gov/data-research/hmda/)
-- [Dodd-Frank Act](https://www.congress.gov/bill/111th-congress/house-bill/4173/text)
-- [NAREB - National Association of Real Estate Brokers](https://www.nareb.com)
-- [NAHREP - National Association of Hispanic Real Estate Professionals](https://nahrep.org)
-- [HUD Certified Housing Counselors](https://www.hud.gov/program_offices/housing/sfh/hcc/hcc_home)
+These resources include some follow-up notes shared by Alia Fierro following our conversation today:
+
+-   Urban Institute, [By 2040, the US Will Experience Modest Homeownership Declines. But for Black Households, the Impact Will Be Dramatic.](https://urldefense.com/v3/__https://www.urban.org/urban-wire/2040-us-will-experience-modest-homeownership-declines-black-households-impact-will-be-dramatic__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALj4nPNZXw$ "https://urldefense.com/v3/__https://www.urban.org/urban-wire/2040-us-will-experience-modest-homeownership-declines-black-households-impact-will-be-dramatic__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALj4nPNZXw$") (Jan. 21, 2021).
+-   Federal Reserve, [Survey of Consumer Finances](https://urldefense.com/v3/__https://www.federalreserve.gov/publications/files/scf20.pdf__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALg3ghze6A$ "https://urldefense.com/v3/__https://www.federalreserve.gov/publications/files/scf20.pdf__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALg3ghze6A$") (2019).
+    -   Shows homeowners hold 40 times the net worth of that of renters. 
+
+        -   Backed by a more recent survey conducted by the National Association of Realtors [here](https://urldefense.com/v3/__https://www.nar.realtor/magazine/real-estate-news/study-homeowner-wealth-is-40-times-higher-than-renters__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALidackLMw$ "https://urldefense.com/v3/__https://www.nar.realtor/magazine/real-estate-news/study-homeowner-wealth-is-40-times-higher-than-renters__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALidackLMw$").
+
+    -   Shows White families had a median net worth of \$188,200, which was over 7 times that of the median net worth of Black families (\$24,100) and over 5 times that of the median net worth of Latinx families (\$36,100).
+
+HFSC-Dem hearings that we held late last Congress that students may find interesting (with lots of stats in the hearing memos). 
+
+-   House Financial Services Committee, [Boom and Bust: The Need for Bold Investments in Fair and Affordable Housing to Combat Inflation](https://urldefense.com/v3/__https://democrats-financialservices.house.gov/events/eventsingle.aspx?EventID=409942__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALgekpAQMg$ "https://urldefense.com/v3/__https://democrats-financialservices.house.gov/events/eventsingle.aspx?EventID=409942__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALgekpAQMg$") (Dec. 1, 2022).
+
+-   House Financial Services Committee, [Persistent Poverty in America: Addressing Chronic Disinvestment in Colonias, the Southern Black Belt, and the U.S. Territories](https://urldefense.com/v3/__https://democrats-financialservices.house.gov/events/eventsingle.aspx?EventID=409879__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALhvNVN-DQ$ "https://urldefense.com/v3/__https://democrats-financialservices.house.gov/events/eventsingle.aspx?EventID=409879__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALhvNVN-DQ$") (Nov. 15, 2022).
+
+-   House Financial Services Committee, [Where Have All the Houses Gone? Private Equity, Single Family Rentals, and America\'s Neighborhoods](https://urldefense.com/v3/__https://democrats-financialservices.house.gov/events/eventsingle.aspx?EventID=409520__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALjs3ZQTew$ "https://urldefense.com/v3/__https://democrats-financialservices.house.gov/events/eventsingle.aspx?EventID=409520__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALjs3ZQTew$") (Jun. 28, 2022).
+
+Information on the housing title of the Build Back Better Act [here](https://urldefense.com/v3/__https://democrats-financialservices.house.gov/issues/the-build-back-better-act.htm__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALhtb8wZ-A$ "https://urldefense.com/v3/__https://democrats-financialservices.house.gov/issues/the-build-back-better-act.htm__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALhtb8wZ-A$"). 
+
+-   This title has since been reintroduced by the Ranking Member as the "Housing Crisis Response Act of 2023" (fact sheet, stats, and bill text [here](https://urldefense.com/v3/__https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=410576__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALghQsiRxA$ "https://urldefense.com/v3/__https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=410576__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALghQsiRxA$")).
+
+-   [HUDUSER: Shared Equity Ownership](https://www.huduser.gov/portal/periodicals/em/fall12/highlight3.html)
+
+-   [Federal Fair Housing Act](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview#_The_Fair_Housing)
+
+-   [Census Household PULSE](https://www.census.gov/data/experimental-data-products/household-pulse-survey.html) - Measuring Household Experiences During the Coronavirus Pandemic
+
+-   [Home Mortgage Disclosure Act (HMDA)](https://www.consumerfinance.gov/data-research/hmda/)
+
+-   [Dodd-Frank Act](https://www.congress.gov/bill/111th-congress/house-bill/4173/text)
+
+-   [NAREB - National Association of Real Estate Brokers](https://www.nareb.com)
+
+-   NAREB, [State of Housing in Black America Report](https://urldefense.com/v3/__https://www.nareb.com/site-files/uploads/2022/11/2022-State-of-Housing-in-Black-America_V4.pdf__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALhUmfxcAA$ "https://urldefense.com/v3/__https://www.nareb.com/site-files/uploads/2022/11/2022-State-of-Housing-in-Black-America_V4.pdf__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALhUmfxcAA$") (2022)
+
+-   [NAHREP - National Association of Hispanic Real Estate Professionals](https://nahrep.org)
+
+-   NAHREP, [State of Hispanic Homeownership Report](https://urldefense.com/v3/__https://nahrep.org/downloads/2022-state-of-hispanic-homeownership-report.pdf__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALhJMFFuTw$ "https://urldefense.com/v3/__https://nahrep.org/downloads/2022-state-of-hispanic-homeownership-report.pdf__;!!DZ3fjg!7PaSE09LQVur1rHncczq7Pm70vzmuUyW3oAkXMoYMYfGBENYL8vY7bkMiUqfGcOVGRAPnVsC0qe1DUVEALhJMFFuTw$") (2022).
+
+    -   "Hispanic Wealth Disparity Timeline" (picture attached) - at the time that this came out (2019, I believe), NAHREP projected that it would not be until 2097 that Hispanics would reach parity with 2013 levels of White wealth\...I am sure this is a much more stark projection today.
+
+![](S8_Capture.PNG)
+
+-   [HUD Certified Housing Counselors](https://www.hud.gov/program_offices/housing/sfh/hcc/hcc_home)
+
 -   [House Committee on Financial Services Bills and Reports](https://www.govinfo.gov/committee/house-financial?path=/browsecommittee/chamber/house/committee/financial/collection/BILLS)
