@@ -17,12 +17,11 @@ In this session, we will explore the causes and consequences of neighborhood cha
 
 ### Facilitator's Learning Goals
 
-- Understand the history of social changes and their motivations and preconditions.
-- Define gentrification and its key characteristics. Exploring the various reasons why gentrification occurs.
-- Examine the difficulties and moral quandaries raised by gentrification. Articulate why gentrification comes from economic issues and often becomes a political issue?
-- Understand the various dimensions such as climate change, development patterns, displacement, economic disparities of gentrification's impact on neighborhood
-residents.
-- What evaluation method can we use to quantify gentrification and changes?
+-   Understand the history of social changes and their motivations and preconditions.
+-   Define gentrification and its key characteristics. Exploring the various reasons why gentrification occurs.
+-   Examine the difficulties and moral quandaries raised by gentrification. Articulate why gentrification comes from economic issues and often becomes a political issue?
+-   Understand the various dimensions such as climate change, development patterns, displacement, economic disparities of gentrification's impact on neighborhood residents.
+-   What evaluation method can we use to quantify gentrification and changes?
 
 ## Readings
 
@@ -37,6 +36,7 @@ Voorhees Center, The Socioeconomic Change of Chicago's Community Areas (1970 - 2
 [Slide Deck](https://docs.google.com/presentation/d/1axZIh2OSF0ybJsllow5eId8GWzN-b4R7riDFWH85SxY/edit?usp=sharing)
 
 ## Additional Resources
+- [Zhenpeng's Policy Game](https://www.dropbox.com/scl/fi/ff94q06ia4ion1apdnorr/PolicyGame.exe?rlkey=08ca3wulxdziwil3pk7w5duyd&dl=0)
 
 -   [Beck, Brenden, The Role of Police in Gentrification  ](https://uofi.box.com/s/uoi7f89ccudnpgtut9pvx9prq0t8retp)
 
