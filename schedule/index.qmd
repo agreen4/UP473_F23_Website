@@ -62,7 +62,7 @@ Our course schedule is subject to change over the course of semester - please ch
 
 | Date       | Topic                                                   |
 |------------|---------------------------------------------------------|
-| 10/30/2023 | [Political Ecology of Housing](20_polioticalecology.qmd)                             |
+| 10/30/2023 | [Political Ecology of Housing](20_politicalecology.qmd)                             |
 | 11/1/2023  |[Vinisha Basnet - Political Ecology of Bedbugs](21_Vinisha.qmd)         |
 | 11/6/2023  |[Regulating Housing Environments](22_hsgenv.qmd)  |
 | 11/8/2023  | [Eviction](23_eviction.qmd)                                                     |
