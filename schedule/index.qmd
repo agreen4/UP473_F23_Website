@@ -75,7 +75,7 @@ Our course schedule is subject to change over the course of semester - please ch
 | 11/15/2023 | [Houselessness](25_houselessness.qmd)                                |
 | 11/20/2023 | [Fall Break - No Class](26_break.qmd)                                |
 | 11/22/2023 | [Fall Break - No Class](27_break.qmd)                                |
-| 11/27/2023 | [Ageing and Disability](28_disability.qmd)                           |
+| 11/27/2023 | [Ageing and Disability](28_age_disab.qmd)                           |
 
 ## What's your plan for intervention?
 
